@@ -37,8 +37,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="AutoFeedCompress, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
+    <Reference Include="AutoFeedCompress">
       <HintPath>..\AutoFeedCompress\bin\Debug\AutoFeedCompress.dll</HintPath>
     </Reference>
     <Reference Include="System" />
