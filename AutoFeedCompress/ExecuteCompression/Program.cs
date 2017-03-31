@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
-
+// Not a significant change.
 namespace ExecuteCompression
 {
   static class Program
